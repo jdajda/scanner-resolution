@@ -21,7 +21,6 @@ import junit.framework.TestCase;
 //	- the end of processing is signaled by empty token
 //----------------------------------------------------------------------
 
-
 public class ScannerTest extends TestCase {
 
 	Scanner scanner1, scanner2, scanner3, scanner4, scanner5;
